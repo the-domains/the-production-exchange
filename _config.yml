@@ -1,17 +1,17 @@
-typography_spectrum: 0.46194077655673027
+typography_spectrum: 0.48078097915276885
 color:
-  brandStrength: 0.7103175080846995
-  lightness: 0.9983146807644516
-  saturation: 0.6575335182715207
-  rhythmicContrast: 0.5718974592164159
+  brandStrength: 0.5653276431839913
+  lightness: 0.9037208976224065
+  saturation: 0.1737818089313805
+  rhythmicContrast: 0.26926504098810256
   brandColors:
-    - '#E0D2D0'
-    - '#F93847'
-    - '#FFFFFE'
-    - '#473835'
-    - '#776967'
-layout_spectrum: 0.7412042727228254
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+layout_spectrum: 0.7685807987581939
 name: The Production Exchange
 navigation: []
 title: The Production Exchange
-description: Event production
+description: 'We plan it, we deliver it, we make it happen'
