@@ -12,9 +12,6 @@ color:
     - '#8A0917'
 layout_spectrum: 0.7685807987581939
 name: The Production Exchange
-navigation:
-  - name: About
-    url: www.theproductionexchange.co.uk
-    type: external
+navigation: []
 title: Event production
 description: It's what we do
