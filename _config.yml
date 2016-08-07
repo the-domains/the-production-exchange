@@ -12,9 +12,6 @@ color:
     - '#8A0917'
 layout_spectrum: 0.7685807987581939
 name: The Production Exchange
-navigation:
-  - name: Recent projects
-    id: 3962d2d2-e21b-4fc6-a8a5-ca3022bfc6a6
-    type: content
+navigation: []
 title: Event production
 description: It's what we do
