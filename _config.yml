@@ -11,6 +11,10 @@ color:
     - '#ACCFCC'
     - '#8A0917'
 layout_spectrum: 0.7685807987581939
+author:
+  name: Glenn Bolton
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/668e9397-fc81-4806-b497-5d7cf40acef4.jpg
 name: The Production Exchange
 navigation: []
 title: The Production Exchange
