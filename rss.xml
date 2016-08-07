@@ -4,7 +4,7 @@
         <description><![CDATA[Event production]]></description>
         <link>https://thegrid.ai/the-production-exchange/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 11:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 12:03:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-production-exchange/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/the-production-exchange/8957318b-c0f7-4951-9b48-3dd0fe60796f/index.html</link>
             <guid isPermaLink="false">8957318b-c0f7-4951-9b48-3dd0fe60796f</guid>
             <pubDate>Sun, 07 Aug 2016 11:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d24be1-daf8-4e47-ab23-664495816ef6.jpg">]]></description>
-            <link>https://thegrid.ai/the-production-exchange/3962d2d2-e21b-4fc6-a8a5-ca3022bfc6a6/index.html</link>
-            <guid isPermaLink="false">3962d2d2-e21b-4fc6-a8a5-ca3022bfc6a6</guid>
-            <pubDate>Sun, 07 Aug 2016 11:53:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
