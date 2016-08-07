@@ -12,3 +12,7 @@ color:
     - '#ACCFCC'
     - '#8A0917'
 name: The Production Exchange
+navigation:
+  - name: About
+    url: www.theproductionexchange.co.uk
+    type: external
