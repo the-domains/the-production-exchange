@@ -1,21 +1,20 @@
-typography_spectrum: 0.48078097915276885
+typography_spectrum: 0.942245032871142
 color:
-  brandStrength: 0.5653276431839913
-  lightness: 0.9037208976224065
-  saturation: 0.1737818089313805
-  rhythmicContrast: 0.26926504098810256
+  brandStrength: 0.6038482077419758
+  lightness: 0.4233725343365222
+  saturation: 0.5337404585443437
+  rhythmicContrast: 0.3978881516959518
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-layout_spectrum: 0.7685807987581939
+    - '#E0D2D0'
+    - '#F93847'
+    - '#FFFFFE'
+    - '#473835'
+    - '#776967'
+layout_spectrum: 0.7011656470131129
 author:
   name: Glenn Bolton
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/668e9397-fc81-4806-b497-5d7cf40acef4.jpg
 name: The Production Exchange
-navigation: []
 title: The Production Exchange
 description: 'We plan it, we deliver it, we make it happen'
