@@ -3,18 +3,17 @@ description: >-
   Our team have a vast amount of experience across a wide range of disciplines;
   theatre, live performance, exhibition, music, corporate, outdoor and stadium
   productions, consumer and high profile public events and ceremonies.
-dateModified: '2016-08-07T12:12:14.537Z'
-datePublished: '2016-08-28T20:23:58.226Z'
+dateModified: '2016-08-28T20:28:40.386Z'
+datePublished: '2016-08-28T20:28:40.784Z'
 title: What we’re about
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-what-were-about.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: what-were-about/index.html
+_type: Blurb
 
 ---
 ## What we're about
