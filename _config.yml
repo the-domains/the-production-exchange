@@ -20,5 +20,8 @@ navigation:
   - name: Event production - its what we do
     id: 2bf98123-4734-456c-99ba-d1d93e612a08
     type: content
+  - name: How we do it
+    id: ff9d217d-7313-46a7-bf4f-4cc648274545
+    type: content
 title: The Production Exchange
 description: 'We plan it, we deliver it, we make it happen'
