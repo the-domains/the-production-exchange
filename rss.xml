@@ -2,16 +2,79 @@
     <channel>
         <title><![CDATA[The Production Exchange]]></title>
         <description><![CDATA[The Production Exchange]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-production-exchange/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 13:32:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Aug 2016 20:53:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-production-exchange/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[London 2012 Olympic Opening Ceremony- Highlights]]></title>
+            <description><![CDATA[<article><h1>London 2012 Olympic Opening Ceremony- Highlights</h1><p>The Highlights of the fantastic Opening Ceremony in case you missed it on the tele. song The Dream written and performed by Lara Dubov, music by Stephen Freeman, Produced by Frank Kay. www.myspace.com/laradubov</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/304c534001181960c5cfd135a3b0545c/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FqbFve-VtN08%2Fhqdefault.jpg&x=0&y=32"></article>]]></description>
+            <link>https://youtu.be/qbFve-VtN08</link>
+            <guid isPermaLink="false">cd38af1f-8ab8-46c8-90ba-e23a81103c9c</guid>
+            <pubDate>Sun, 28 Aug 2016 20:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GBPS]]></title>
+            <description><![CDATA[<article><h1>GBPS</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b38e9feabe7132035413b84a76c726e6/croprotate.jpg?cropheight=835&cropwidth=1262&degrees=0&input=http%3A%2F%2Fwww.creativetechnicalsolutions.co.uk%2Fcommunities%2F2%2F004%2F010%2F679%2F552%2F%2Fimages%2F4577250414_1262x836.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.creativetechnicalsolutions.co.uk</link>
+            <guid isPermaLink="false">cd364c50-cf15-403e-b3c0-953ec51f1ed9</guid>
+            <pubDate>Sun, 28 Aug 2016 20:53:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07d24be1-daf8-4e47-ab23-664495816ef6.jpg">]]></description>
-            <link>undefinedad6ce808-e0c0-4f14-a9a1-63d7269b6d57/index.html</link>
-            <guid isPermaLink="false">ad6ce808-e0c0-4f14-a9a1-63d7269b6d57</guid>
-            <pubDate>Sun, 07 Aug 2016 13:32:50 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69baa8c4-54d2-46ec-a645-6cb43ec5587d.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/fe4609e5-1980-446a-9310-972b39a2d699/index.html</link>
+            <guid isPermaLink="false">fe4609e5-1980-446a-9310-972b39a2d699</guid>
+            <pubDate>Sun, 28 Aug 2016 20:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81ca1b12-9792-4395-b47e-2d2201c20232.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/bc762cf8-5994-4467-89cf-5f480edfc67a/index.html</link>
+            <guid isPermaLink="false">bc762cf8-5994-4467-89cf-5f480edfc67a</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>creative concepts. PLAN </p>]]></description>
+            <link>https://thegrid.ai/the-production-exchange/creative-concepts-plan/index.html</link>
+            <guid isPermaLink="false">bddd8141-5bf4-41bd-8f85-b15c28ac92f9</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f7ff8ee-1712-403a-bf5e-7346101a7e47.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/bc084cfe-68b8-4bfa-bc8a-a55ae8b16385/index.html</link>
+            <guid isPermaLink="false">bc084cfe-68b8-4bfa-bc8a-a55ae8b16385</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3f91742-aa48-4021-a837-1564e1890aa9.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/481b7dc8-f364-4416-b43e-8cc5752dcfe5/index.html</link>
+            <guid isPermaLink="false">481b7dc8-f364-4416-b43e-8cc5752dcfe5</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05060268-d4f9-4b3b-9ebb-89f751bb70ba.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/33c3a792-f917-4bb2-aa50-39112a521951/index.html</link>
+            <guid isPermaLink="false">33c3a792-f917-4bb2-aa50-39112a521951</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f5c0f3d-2fd0-4764-bcd7-d8e496e42c80.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/538077ee-d67e-4b1b-b49b-9026cf17625b/index.html</link>
+            <guid isPermaLink="false">538077ee-d67e-4b1b-b49b-9026cf17625b</guid>
+            <pubDate>Sun, 28 Aug 2016 20:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e400ca8e-03c8-4236-8258-cd573d62e566.jpg">]]></description>
+            <link>https://thegrid.ai/the-production-exchange/76623469-e8b4-4049-843d-4e3a25f2b2b1/index.html</link>
+            <guid isPermaLink="false">76623469-e8b4-4049-843d-4e3a25f2b2b1</guid>
+            <pubDate>Sun, 28 Aug 2016 20:51:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
