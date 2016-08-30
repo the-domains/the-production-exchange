@@ -26,5 +26,8 @@ navigation:
   - name: What we’re about
     id: 2f941381-e20f-494d-b67c-8ab583ca2cd2
     type: content
+  - name: Services we offer
+    id: 288771ec-23e6-47af-b659-f5155b888e8f
+    type: content
 title: The Production Exchange
 description: 'We plan it, we deliver it, we make it happen'
