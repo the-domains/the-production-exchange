@@ -1,17 +1,16 @@
 ---
 description: Strategy & Planning
-dateModified: '2016-08-07T12:17:37.967Z'
-datePublished: '2016-08-28T20:24:09.840Z'
+dateModified: '2016-08-28T20:30:06.753Z'
+datePublished: '2016-08-28T20:30:07.474Z'
 title: Services we offer
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-services-we-offer.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: services-we-offer/index.html
+_type: Blurb
 
 ---
 ## Services we offer
