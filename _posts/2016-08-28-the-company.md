@@ -2,18 +2,17 @@
 description: >-
   Founded in 2014, The Production Exchange was born of a natural collaboration
   between experienced event professionals with complimentary skills.
-dateModified: '2016-08-07T12:10:03.625Z'
-datePublished: '2016-08-28T20:23:55.816Z'
+dateModified: '2016-08-28T20:35:29.866Z'
+datePublished: '2016-08-28T20:35:30.216Z'
 title: 'The Company '
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-the-company.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: the-company/index.html
+_type: Blurb
 
 ---
 ## The Company 
