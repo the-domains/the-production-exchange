@@ -1,4 +1,3 @@
-layout_spectrum: 0.02550512459129095
 typography_spectrum: 0.48154037445783615
 color:
   brandStrength: 0.921049827709794
@@ -11,10 +10,15 @@ color:
     - '#FFFFFF'
     - '#A9283C'
     - '#818D90'
+layout_spectrum: 0.02550512459129095
 author:
   name: Glenn Bolton
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/668e9397-fc81-4806-b497-5d7cf40acef4.jpg
 name: The Production Exchange
+navigation:
+  - name: Event production - its what we do
+    id: 2bf98123-4734-456c-99ba-d1d93e612a08
+    type: content
 title: The Production Exchange
 description: 'We plan it, we deliver it, we make it happen'
