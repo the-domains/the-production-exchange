@@ -29,5 +29,8 @@ navigation:
   - name: Services we offer
     id: 288771ec-23e6-47af-b659-f5155b888e8f
     type: content
+  - name: Insight
+    id: 29c7b4a7-5cad-4b44-8c10-e88801e3e768
+    type: content
 title: The Production Exchange
 description: 'We plan it, we deliver it, we make it happen'
