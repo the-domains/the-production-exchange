@@ -3,18 +3,17 @@ description: >-
   We offer a talented network pool of experienced resource to agencies and
   companies who want help but don’t have the need, capacity or budget for
   additional full-time staff.
-dateModified: '2016-08-07T12:21:53.414Z'
-datePublished: '2016-08-28T20:24:14.800Z'
+dateModified: '2016-08-28T20:28:03.781Z'
+datePublished: '2016-08-28T20:28:04.160Z'
 title: How we do it
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-28-how-we-do-it.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: how-we-do-it/index.html
+_type: Blurb
 
 ---
 ## How we do it
