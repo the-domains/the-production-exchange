@@ -1,16 +1,16 @@
-typography_spectrum: 0.942245032871142
+layout_spectrum: 0.02550512459129095
+typography_spectrum: 0.48154037445783615
 color:
-  brandStrength: 0.6038482077419758
-  lightness: 0.4233725343365222
-  saturation: 0.5337404585443437
-  rhythmicContrast: 0.3978881516959518
+  brandStrength: 0.921049827709794
+  lightness: 0.45961531321518123
+  saturation: 0.021436612587422132
+  rhythmicContrast: 0.3892731540836394
   brandColors:
-    - '#E0D2D0'
-    - '#F93847'
-    - '#FFFFFE'
-    - '#473835'
-    - '#776967'
-layout_spectrum: 0.7011656470131129
+    - '#9FC0C6'
+    - '#554D4C'
+    - '#FFFFFF'
+    - '#A9283C'
+    - '#818D90'
 author:
   name: Glenn Bolton
 logo: >-
